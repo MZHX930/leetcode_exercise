@@ -1,4 +1,4 @@
-public class Solution1
+public class Solution_001_1
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
     {
